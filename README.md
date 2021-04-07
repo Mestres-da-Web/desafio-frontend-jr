@@ -11,8 +11,10 @@ Atualmente contamos com cerca de 10 desenvolvedores entre juniors, plenos, mobil
 ### Descrição 📰
 Para iniciar o desenvolvimento do teste, baixe o XD do design e utilize a api da marvel para o consumo dos dados disponíveis (o que não possuir na api, pode deixar estático).
 
+![Image background](https://raw.githubusercontent.com/Mestres-da-Web/desafio-frontend-jr/main/3.png?token=AG4X3CZ42R7CHRAU6OIMWHLANXPJE)
+
 ### Arquivos
-- [Design](https://drive.google.com/file/d/1-sGLbiaqb_EIskfje4uJzsxSSxLW-wbe/view?usp=sharing)
+- [Design](https://drive.google.com/file/d/1-sGLbiaqb_EIskfje4uJzsxSSxLW-wbe/view?usp=sharing) 
 - [Fontes](https://drive.google.com/file/d/1J0ZGvaQczX68yFLDnp9Ma0O2xmneh8Bb/view?usp=sharing)
 - [Fontes 2](https://drive.google.com/file/d/1SCIvJoXnRljB_5lfAH_snHnF8ohQNuOr/view?usp=sharing)
 
@@ -20,18 +22,20 @@ Para iniciar o desenvolvimento do teste, baixe o XD do design e utilize a api da
 - ReactJS ✔
 - TypeScript ✔
 - Redux (useContext, useSelector) ✔
+- Styled Components ✔
+- Responsividade ✔
 - Organização do projeto ✔
 - Código limpo ✔
 - Documentação do projeto ✔
 
 ### Requisitos comportamentais
-- Aprendizado continuo
-- Interesse por compartilhar experiências
-- Comunicação
-- Visão sistêmica
+- Aprendizado continuo;
+- Interesse por compartilhar experiências;
+- Comunicação;
+- Visão sistêmica.
 
 ### Diferenciais 💖
-- Local storage
+- Local storage.
 
 ### Próximos passos
 1. Enviar o link do repositório para: yukihiro@mestresdaweb.com.br;
