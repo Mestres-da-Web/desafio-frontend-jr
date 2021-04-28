@@ -1,4 +1,4 @@
-# Desafio Front-end Junior 👩‍💻
+# Desafio Front-end 👩‍💻
 
 ### Antes de mais nada, gostaríamos de agradecer pelo interesse em integrar nossa equipe! Abaixo estão as instruções para que você dê início ao teste.
 
