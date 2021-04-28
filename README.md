@@ -9,9 +9,8 @@ Desde 2009 vivemos como loucos atrás de mentes apaixonadas por tecnologia, aque
 Atualmente contamos com cerca de 10 desenvolvedores entre juniors, plenos, mobile, front end e back end. Temos a cultura forte de compartilhar conhecimento, ajudar e incentivar a nossa equipe, além de contar piadas sem graças e mandar memes no Discord.
 
 ### Descrição 📰
-Para iniciar o desenvolvimento do teste, baixe o XD do design e utilize a api da marvel para o consumo dos dados disponíveis (o que não possuir na api, pode deixar estático).
+Para iniciar o desenvolvimento do teste, baixe o XD do design.
 
-![Image background](https://raw.githubusercontent.com/Mestres-da-Web/desafio-frontend-jr/main/3.png?token=AG4X3CZ42R7CHRAU6OIMWHLANXPJE)
 
 ### Arquivos
 - [Design](https://drive.google.com/file/d/1-sGLbiaqb_EIskfje4uJzsxSSxLW-wbe/view?usp=sharing) 
