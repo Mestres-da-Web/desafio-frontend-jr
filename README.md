@@ -37,7 +37,7 @@ Para iniciar o desenvolvimento do teste, baixe o XD do design.
 - Local storage.
 
 ### Próximos passos
-1. Enviar o link do repositório para: yukihiro@mestresdaweb.com.br;
+1. Enviar o link do repositório para: fabio@mestresdaweb.com.br;
 2. Caso o código analisado passe pelo nosso review, entraremos em contato para uma segunda entrevista.
 
 ![Alt Text](https://tenor.com/view/ednaldo-pereira-vale-nada-clone-worthless-funny-gif-17809469.gif)
