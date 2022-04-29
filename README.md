@@ -20,8 +20,7 @@ Para iniciar o desenvolvimento do teste, baixe o XD do design.
 ### Requisitos Técnicos 😁
 - ReactJS ✔
 - TypeScript ✔
-- Redux (useContext, useSelector) ✔
-- Styled Components ✔
+- Estilização com Styled Components ✔
 - Responsividade ✔
 - Organização do projeto ✔
 - Código limpo ✔
