@@ -18,7 +18,7 @@ Para iniciar o desenvolvimento do teste, baixe o XD do design.
 - [Fontes 2](https://drive.google.com/file/d/1SCIvJoXnRljB_5lfAH_snHnF8ohQNuOr/view?usp=sharing)
 
 ### Requisitos Técnicos 😁
-- ReactJS ✔
+- ReactJS  ou nest.JS✔
 - TypeScript ✔
 - Estilização com Styled Components ✔
 - Responsividade ✔
